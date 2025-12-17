@@ -1,5 +1,5 @@
 # DH-PLR
-artially linear regression (PLR) models provide a powerful framework for inter-
+Partially linear regression (PLR) models provide a powerful framework for inter-
 preting key variables while adjusting for complex confounders in modern data
 analysis. However, substantial challenges arise for traditional PLR methods
 in high-dimensional settings, particularly when both the linear and nonlinear
